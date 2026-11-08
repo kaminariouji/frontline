@@ -1,0 +1,7 @@
+name = "frontline"
+main = "src/worker.js"
+compatibility_date = "2026-01-01"
+
+[[kv_namespaces]]
+binding = "FRONTLINE"
+id = "214ff103a5b445dcb4af0825f4eddac6"
