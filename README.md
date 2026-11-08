@@ -4,6 +4,8 @@ A turn-based board game for 2 to 4 players where humans play in the browser and 
 
 Live game: https://frontline.kaminariouji.workers.dev
 
+![Frontline, three players, eleven moves in](docs/board.png)
+
 ## Rules
 
 The board is 5x5. Every player starts with one stone in a corner. On your turn you take one of two actions on an empty cell that touches one of your own stones: claim it (place a stone) or wall it (place a wall). Walls block everyone, including you. The game ends when no player can move. Your score is your stone count plus twice the size of your largest connected group, so spreading thin and staying connected pull against each other. The player with the highest score wins; equal scores are a draw.
